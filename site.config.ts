@@ -26,13 +26,14 @@ export const site: SiteConfig = {
       { src: "/images/post-6.jpg", alt: "Fade in progress at the chair", width: 640, height: 1136 },
       { src: "/images/post-7.jpg", alt: "Mid fade lineup finished cut", width: 640, height: 1136 },
     ],
+    primaryCta: { label: "Book via Linktree", href: "https://linktr.ee/ruleboyy" },
     secondaryCta: { label: "See the work", href: "#gallery" },
   },
 
   highlights: [
     "Professional barber in Brampton",
     "Fades, tapers, and lineups",
-    "Book via the link in bio",
+    "Book via Linktree",
     "Helping boost confidence",
   ],
 
