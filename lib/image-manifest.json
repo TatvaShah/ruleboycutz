@@ -1,0 +1,157 @@
+{
+ "/images/logo.jpg": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.7d7b4d3b5b",
+  "stamp": "7d7b4d3b5b"
+ },
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.74c0cea38f",
+  "stamp": "74c0cea38f"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.2cdecbca08",
+  "stamp": "2cdecbca08"
+ },
+ "/images/post-1.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-1.88a18a4189",
+  "stamp": "88a18a4189"
+ },
+ "/images/post-2.jpg": {
+  "w": 1080,
+  "h": 1920,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-2.c88a678940",
+  "stamp": "c88a678940"
+ },
+ "/images/post-3.jpg": {
+  "w": 720,
+  "h": 960,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-3.370a7c1878",
+  "stamp": "370a7c1878"
+ },
+ "/images/post-4.jpg": {
+  "w": 1080,
+  "h": 1920,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/post-4.a1102b1912",
+  "stamp": "a1102b1912"
+ },
+ "/images/post-5.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-5.58a23ab1e7",
+  "stamp": "58a23ab1e7"
+ },
+ "/images/post-6.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-6.63097f41b0",
+  "stamp": "63097f41b0"
+ },
+ "/images/post-7.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/post-7.b97193a7f0",
+  "stamp": "b97193a7f0"
+ },
+ "/images/post-8.jpg": {
+  "w": 720,
+  "h": 960,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/post-8.8560b943bf",
+  "stamp": "8560b943bf"
+ }
+}
